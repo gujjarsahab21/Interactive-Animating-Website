@@ -1,0 +1,16 @@
+->gsap:- js ki library hai jo moving animation me kam aati hai.
+->(search gsap cdn click on first site frist link copy nd paste above body close tag)
+->scroll trigger naam ka gsap me pluggin hai usko bhi add krdo.
+->The ::before and ::after pseudo elements are for css. 
+->'dets' mtlb x and y ki value.
+->+200 -200 isliye kra kyuki wo blur wala cursor sirf left corner se chlra tha isse wo center hoke ache se chalega.
+->marquie tag ek infinite scroller create krke deta hai
+-> -webkit-text-stroke :- ye ek property hoti hai kisi bhi text ke upr stroke lane ka kam krti hai in short text ke upr border dikhti hai.
+-> (-webkit-scrollbar: display none) :- itna krne se jo scrollbar aara hoga hat jayega.
+->rotate3d:- tilt wali cheez isse hogi.
+->(object-fit: cover ):- se images theek se fit ho jayegi.
+-> #page3>p :- #page3 ke directly andar paragraph hai.
+-> agr kisi ko position absolute dete ho toh uske parent ko position relative deni hoti hai.(line323 nd 311)
+->stagger:- multiple element ek ek krke ayenge jese he scroll up krenge.
+->scrub se tej ya slow chalega
+->selection se jb bhi apn select krte hai kisi bhi word/sentence ko toh kis color me select hona hai wo selection bataega
